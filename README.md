@@ -12,7 +12,7 @@ a. GPU acceleration – prepare a comparative report showing training times with
 b. Transfer learning – prepare a comparative report with and without transfer learning; we are particularly interested in reaching a certain accuracy level, e.g., 80%. ✅
 #### 4. To optimize accuracy, apply: 
 a. Normalization – prepare a comparative report with and without data normalization. \
-b. Data augmentation – prepare a comparative report with and without augmentation, including details of the transformations used. \
+b. Data augmentation – prepare a comparative report with and without augmentation, including details of the transformations used. ✅\
 c. Dropout – prepare a comparative report with and without applying dropout. \
 d. Data extension – prepare a comparative report with and without adding a new batch of data. \
 e. Different input sizes (e.g., 96x96, 160x160, 224x224) – prepare a comparative report for each size. \
@@ -21,7 +21,7 @@ g. Different network architectures (e.g., VGG16, ResNet101, InceptionV3, MobileN
 
 ##
 todo
-- change dataset to regular not augmented and train again :(
+- change dataset to regular not augmented and train again :( ✅
 - check variables names 
 
 ## 
