@@ -1,5 +1,6 @@
 # MRI-Alzheimer-Stages-Detection-CNN
-dataset: https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset/data 
+dataset: https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset/data \
+models raports are on 'project' branch (in polish for now)
 ##
 academic project that aims to teach how to optimize cnn networks and understand the impact of various training parameters on model performance :) (not really focusing on performance here)
 
@@ -31,3 +32,4 @@ todo in the future
 ## 
 - https://www.geeksforgeeks.org/image-classification-using-resnet/ 
 - https://miroslawmamczur.pl/jak-dzialaja-konwolucyjne-sieci-neuronowe-cnn/
+- https://www.youtube.com/watch?v=OxYGhiUDJYQ
