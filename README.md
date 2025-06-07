@@ -16,13 +16,17 @@ b. Data augmentation – prepare a comparative report with and without augmentat
 c. Dropout – prepare a comparative report with and without applying dropout. ✅\
 d. Data extension – prepare a comparative report with and without adding a new batch of data. ✅\
 e. Different input sizes (e.g., 96x96, 160x160, 224x224) – prepare a comparative report for each size. ✅\
-f. Different batch sizes (e.g., 32, 64, 128) – prepare a comparative report for each size. \
-g. Different network architectures (e.g., VGG16, ResNet101, InceptionV3, MobileNet) – prepare a comparative report for each architecture (at least 4). 
+f. Different batch sizes (e.g., 32, 64, 128) – prepare a comparative report for each size. ✅\
+g. Different network architectures (e.g., VGG16, ResNet101, InceptionV3, MobileNet) – prepare a comparative report for each architecture (at least 4). ✅
 
 ##
 todo
 - change dataset to regular not augmented and train again :( ✅
-- check variables names 
+- check variables names ✅
+
+##
+todo in the future
+- !! get rid of code redundancy !! (make functions that automatically change images input sizes, batch sizes, models etc)
 
 ## 
 - https://www.geeksforgeeks.org/image-classification-using-resnet/ 
