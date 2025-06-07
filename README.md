@@ -12,4 +12,4 @@ Analizując wykresy Training and Validation Accuracy i Training and Validation L
 ponieważ często w okolicach końcowych epok następowało przeuczanie się. Dodatkowo zastowowanie takich metod optymalizacji jak Dropout, albo większy batch size 
 pograszało wyniki modelu, z czego można wnioskować, że na takim zbiorze danych, jaki został użyty do treningu lepiej sprawują się prostsze modele. \
 <br>
-[Tutaj] znajdują się dwa nowe modele, w których zastosowałam sugestie wyciągnięte z raportów:)
+[Tutaj](https://github.com/werixx1/Optimizing-CNN-MRI-Alzheimer-Stages-Detection/blob/main/notebooks/OptimizedModels.ipynb) znajdują się dwa nowe modele, w których zastosowałam sugestie wyciągnięte z raportów:)
