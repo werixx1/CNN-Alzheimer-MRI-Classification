@@ -1,4 +1,4 @@
-# MRI-Alzheimer-Stages-Detection-CNN
+# Optimizing-CNN-MRI-Alzheimer-Stages-Detection
 academic project that aims to teach how to optimize cnn networks and understand the impact of various training parameters on model performance :)
 
 ### OPTIMIZED MODEL:
