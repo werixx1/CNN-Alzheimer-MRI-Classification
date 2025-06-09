@@ -1,8 +1,22 @@
 # MRI-Alzheimer-Stages-Detection-CNN
-dataset: https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset/data \
-models raports are on 'project' branch (in polish for now)
-##
-academic project that aims to teach how to optimize cnn networks and understand the impact of various training parameters on model performance :) (not really focusing on performance here)
+academic project that aims to teach how to optimize cnn networks and understand the impact of various training parameters on model performance :)
+
+### OPTIMIZED MODEL:
+
+| Structure | Img size | Samples | Augmentation | Normalization | Accelerator | Transfer learning | Dropout | Batch size | Epochs |
+|-----------|----------|---------|--------------|---------------|-------------|-------------------|---------|------------|--------|
+| MobileNet | 224x224  | 12200   | YES          | YES           | GPU         | YES               | NO      | 32         | 16     |
+
+<p align="center">
+  <img height="300" width="500" src="https://github.com/user-attachments/assets/107da92c-9c67-4138-adab-23fcd1f059f2" />
+  <img height="300" width="500" src="https://github.com/user-attachments/assets/cd9a615e-53ad-4438-a43b-72da3654429b" />
+</p>
+
+## 
+dataset: https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset/data 
+</br>
+(im using non augmented version because of project requirements) \
+models raports are on 'project' branch (in polish)
 
 ## >Assigned instructions for the project:
 #### 1. Prepare a dataset for image classification (binary or multiclass). ✅
